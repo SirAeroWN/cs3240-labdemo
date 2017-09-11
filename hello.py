@@ -3,3 +3,4 @@ from helper import reverse_print
 
 greeting('hello')
 reverse_print('hello')
+greeting('howdy')
